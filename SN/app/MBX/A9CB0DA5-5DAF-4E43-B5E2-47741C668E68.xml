@@ -1,0 +1,75 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A9CB0DA5-5DAF-4E43-B5E2-47741C668E68" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="7">
+    <control controlID="52B741B8-5BB5-4321-BF12-B37E5A920BB0" controlTypeID="Image" x="0" y="0" w="360" h="248" zOrder="0">
+      <URL>A97A2AD288ADDE2D4C3DAC9905749D06.png</URL>
+      <fitMode>fmCenter</fitMode>
+    </control>
+    <control controlID="209FF9CE-57D9-48AD-AE93-B551EB06F962" controlTypeID="TextArea" x="36" y="222" w="286" h="133" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SIDDIKNOGORI%0D%0ADORBAR+SHORIFI%0D%0ASDS</text>
+      <textColor>4281907245</textColor>
+      <textSize>32</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8D135D34-685D-4662-9DBF-9F71780D23C1" controlTypeID="TextArea" x="37" y="365" w="285" h="228" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Siddiknogori+Dorbar+Shorif+was+established+on+October+1%2C+1996+A.D.+Tamanna-e-Muhibbeen%2C+Muhsin-e-Sabireen%2C+Nigah-e-Aqrabeen%2C+Ataa-e-Iyatimeen%2C+Rahim-e-Masaqeen+O+Khaza-e-Abedeen+Shah+Sufi+Abdul+Khaleq+Chishti+Rahimahullahil+Kareem+is+the+founder+of+it.+Since%2C+after+the+establishment%2C+it+went+through+a+wide+range+of+difficulties+to+spread+the+message+of+mutual+co-operation%2C+love+for+a+common+goal+(spiritual+sanctity)%2C+perseverance+and+tolerance.+Since+then%2C+it+has+been+considered+a+milestone+to+its+adherents+and+local+residents+alike+as+a+place+of+tranquility+and+spiritual+refinement.+Its+a+place+where+people+of+different+backgrounds+not+only+gather%2C+but+they+share+mutual+feelings+and+interests+regarding+their+spiritual+problems+and+interests%2C+and+thus+enhance+the+social+connectivity+through+co-operation+and+tolerance.+To+its+nearby+residents%2C+it+is+more+than+a+Dorbar.+It+is+a+place+where+they+find+their+very+own%2C+and+could+escape+from+the+worldly+pullback+for+at+least+a+while.+No+political+talks+are+held+here%2C+and+it+has+no+political+interests+to+stick+to%2C+rather+it+represents+itself+as+an+intermediary+of+mutual+connectivity%2C+and+thus%2C+discourages+the+social+conflicts+and+differences+which+contributes+in+the+long+run+to+bring+forth+social+peace.%0D%0A%0D%0APeace+is+the+ultimate+message+here.+It+is+no+place+of+Fatwa.+Therefore%2C+those+who+seek+spiritual+refinement+as+way+of+upholding+the+inner-strength%2C+it+can+be+a+Goldmine+for+them.+Sectarian+philosophies+are+never+ever+inspired+here+but+it+feels+that+it+has+duty+to+spread+the+message+of+a+common+goal+(spiritual+sanctity)+for+every+individual+irrespective+of+their+cast%2C+color+and+creed.+Every+year+on+January+10+annual+%E2%80%98Uros+Shorif%E2%80%99+is+celebrated+with+utmost+festivity+and+religious+sobriety+on+the+occasion+of+%E2%80%98Wisal%E2%80%99+day+of+Khaza+Shah+Abdul+Bari+Rowshonabadi+R.+who+is+one+of+the+predecessors+(Murshid-e-Haq)+of+the+Chishtiya-Sabriya+Wilayah+of+India+and+Bangladesh+according+to+the+founder%E2%80%99s+(Siddiknogori+R.K.)+own+%E2%80%98Shazara%E2%80%99+(the+filial+tree+or+the+tree+of+representative+lineages)+Everyone+is+welcome+here%2C+but+not+to+forget%2C+its+a+safe+haven+for+only+those+who+seek+to+grow+their+inner+strength+i.e.+latent+spiritual+energy+that+is+present+in+every+single+person+of+the+entire+creation%2C+but+certainly+not+to+those+who+look+out+to+fulfill+their+skewed+personal+motives+or+to+fulfill+their+worldly+desires.</text>
+      <textColor>4278255360</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C8194656-B6DB-43CF-9C04-EEEE85FD99CE" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="3">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="28A15881-77FA-45C5-B693-7D58086F4F18" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="7BED3C47-0ABF-4919-8DBE-6E36B50F97E8" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1285E494-650A-45EA-99E9-11728722F79C" linkType="ltPageLink" isApplyIncludePage="False" title="Audio+Book">
+          <area shape="0" alt="" ID="{17CD6E06-BCC8-4EF6-960F-803B06278421}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="3AAC4F59-52E8-4CC4-ABDA-40016E0BC2E3" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="6">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0860BEF9-0C2E-42D5-A1E7-1D9D1FE9B1DB" linkType="ltPageLink" isApplyIncludePage="False" title="SJS">
+          <area shape="0" alt="" ID="{DAD2DD36-7E89-4C67-B9AF-2700885332AC}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,152 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="3048BEB8-34E8-43DC-80B2-D919431A48A2" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="17">
+    <control controlID="AA611807-A922-41FF-900F-3B52924368EF" controlTypeID="ImageCarousel" x="0" y="0" w="360" h="200" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="797E2217-CCE7-4504-BF0F-E14CB47D834F" controlTypeID="ImageBackground" x="0" y="0" w="360" h="200" zOrder="0">
+          <caption>images</caption>
+          <groupChildrenDescriptors/>
+          <URL>36D90A2F09CCBE03D4410690F0A96E09.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="E6889DE3-C829-4495-99FF-F23F526665BF" controlTypeID="Icon" x="324" y="174" w="16" h="16" zOrder="1">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62393</iconCode>
+      </icon>
+      <URL>0714A005C7CE2B7B0DEA10D138CE2FA3.svg</URL>
+    </control>
+    <control controlID="07AB4C8A-4D51-4B03-B4AB-0701D4E3C6EF" controlTypeID="Shape" x="0" y="535" w="180" h="106" zOrder="2">
+      <color>4292318216</color>
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C44B6016-250A-4FCD-BF2C-C08CC13C6FD3" controlTypeID="Shape" x="180" y="535" w="180" h="106" zOrder="3">
+      <color>4293700132</color>
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C211673A-2101-4319-81B2-AF952D77BECB" controlTypeID="Image" x="0" y="198" w="360" h="178" zOrder="4">
+      <URL>327388AF2816215888A5B9FB3AE57FDD.jpg</URL>
+      <fitMode>fmFit</fitMode>
+    </control>
+    <control controlID="1BDB0190-BC38-40F7-AF58-184825876A2E" controlTypeID="__group__" x="204" y="548" w="103" h="76" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1285E494-650A-45EA-99E9-11728722F79C" linkType="ltPageLink" isApplyIncludePage="False" title="Audio+Book">
+          <area shape="0" alt="" ID="{F454307B-FC22-4E04-9415-118179251B81}" coords="(0,0,103,76)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="8EA07CB6-5270-4BA2-AAE5-27D2562CF48E" controlTypeID="Label" x="0" y="49" w="103" h="27" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Audio+Book</text>
+          <textColor>4289295624</textColor>
+          <textSize>20</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D1D8FF9E-31E4-4C68-980D-0F2A7FB9B6F0" controlTypeID="Icon" x="36" y="0" w="40" h="40" zOrder="1">
+          <color>4289295624</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61480</iconCode>
+          </icon>
+          <URL>252A54A7A8F843526A3366BB8704E211.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="03430E53-AB01-4073-A7E6-74E54100B5F8" controlTypeID="__group__" x="53" y="553" w="85" h="70" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F4481F0D-666D-461E-AAF0-3539D5DD3691" linkType="ltPageLink" isApplyIncludePage="False" title="Text+Book">
+          <area shape="0" alt="" ID="{B1F0FE87-5DCD-42D3-B610-70D581E5A30A}" coords="(0,0,85,70)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="F2C328EF-5EEC-49E5-87CA-B9490F58CC4C" controlTypeID="Label" x="0" y="43" w="85" h="27" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Text+Book</text>
+          <textColor>4287521287</textColor>
+          <textSize>20</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="42B00204-D17A-4B95-A56C-9CC670F8F11E" controlTypeID="Icon" x="27" y="0" w="35" h="35" zOrder="1">
+          <color>4287521287</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61485</iconCode>
+          </icon>
+          <URL>CA1837C3C97A081B67CD5246506A2F60.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9EF8DF0A-555A-4127-B826-73DAE76A69CA" controlTypeID="Search" x="31" y="20" w="309" h="24" zOrder="7">
+      <color>16777215</color>
+      <borderColor>16764057</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>80</radius>
+      <textDirection>tdLeft</textDirection>
+    </control>
+    <control controlID="9F33DB51-BB01-4AF8-8EBE-E445DF26E6C2" controlTypeID="Image" x="0" y="368" w="360" h="167" zOrder="8">
+      <URL>86B824B3C463DAADC37AE643DC31B94D.jpg</URL>
+      <fitMode>fmFill</fitMode>
+    </control>
+    <control controlID="D01374E4-0FA3-4740-904F-0000D0F33499" controlTypeID="TextArea" x="199" y="257" w="118" h="47" zOrder="9">
+      <caption>About</caption>
+      <color>6710886</color>
+      <borderColor>6710886</borderColor>
+      <borderVisible>True</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="2D474343-471A-49FF-B697-8DB72692CC8F" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{87B0E7E4-A3A3-448D-A706-633085436A86}" coords="(0,0,118,47)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>ABOUT%0D%0ASIDDIKNOGORI</text>
+      <textColor>4294954137</textColor>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2E000147-B4AA-48C3-94A9-D3311F59708D" controlTypeID="TextArea" x="31" y="417" w="118" h="47" zOrder="10">
+      <color>6710886</color>
+      <borderColor>6710886</borderColor>
+      <borderVisible>True</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="627B8669-605B-43F3-B52F-99B4AAB5905F" linkType="ltPageLink" isApplyIncludePage="False" title="About+Sazzadanoshin">
+          <area shape="0" alt="" ID="{87B0E7E4-A3A3-448D-A706-633085436A86}" coords="(0,0,118,47)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>ABOUT%0D%0ASAZZADANOSHIN</text>
+      <textColor>4294954137</textColor>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A3FE25C-B6F7-49AD-A8AA-4E2550A7AD21" controlTypeID="PageControlEx" x="162" y="158" w="48" h="40" zOrder="11">
+      <gap>10</gap>
+      <size>6</size>
+      <columnCount>3</columnCount>
+      <selectedIndex>1</selectedIndex>
+      <shapeType>stSquare</shapeType>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,107 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="7C3CF951-1AD7-4E40-AB0D-A01D5CCE7C57" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="8064B3DF-91BC-41D8-B3DD-6601D2E63CA1" controlTypeID="TextArea" x="32" y="89" w="295" h="62" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Siddiknogor+Jaker+Songothon%0D%0ARAJSHAHI+DIVISION</text>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3A18B970-3C9D-425D-9828-FEB42F10938A" controlTypeID="Icon" x="25" y="23" w="24" h="24" zOrder="1">
+      <color>4291611852</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="BFA06183-367C-46A1-A80A-70132DAABA38" controlTypeID="Menu" x="0" y="161" w="360" h="441" zOrder="2">
+      <color>4294172104</color>
+      <borderColor>15000804</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E1E19E8E-F489-4346-835D-82AEE36A83A8" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_1">
+          <area shape="0" alt="" ID="{C239027E-5BEB-446E-B3BE-FB5ACCDFD247}" coords="(0,0,360,49)"/>
+        </link>
+        <link targetPageID="E996BDF1-1185-4137-B1FD-28F467AD5E08" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_2">
+          <area shape="0" alt="" ID="{4F694529-EEB8-4056-870B-C5E1C15C63D4}" coords="(0,49,360,98)"/>
+        </link>
+        <link targetPageID="9E704DDD-2526-4A5D-AB28-D30C9D193999" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_3">
+          <area shape="0" alt="" ID="{CD71743F-EF64-4DCE-AD65-5697CAEDD12F}" coords="(0,98,360,147)"/>
+        </link>
+        <link targetPageID="FA73CF9F-E985-4163-987E-25DDF355AE92" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_4">
+          <area shape="0" alt="" ID="{A88719A0-1D92-44BA-95BD-F9945A197F9E}" coords="(0,147,360,196)"/>
+        </link>
+        <link targetPageID="9917DF1A-D638-4614-A076-B22FCB105A9C" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_5">
+          <area shape="0" alt="" ID="{FF6443CB-664A-4BE2-958F-3348AB38A8D6}" coords="(0,196,360,245)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_6">
+          <area shape="0" alt="" ID="{154AB6A1-ADFB-4C40-A6AB-0C72AA0553B1}" coords="(0,245,360,294)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_7">
+          <area shape="0" alt="" ID="{3126EBF2-CA4E-46B9-BEE7-B7C222A4F116}" coords="(0,294,360,343)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_8">
+          <area shape="0" alt="" ID="{187FC2F4-9C4C-4E32-86B9-46F2CDE1E1F7}" coords="(0,343,360,392)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Songothoner+Naam_9">
+          <area shape="0" alt="" ID="{F6F59071-CF82-4BC7-BE85-F68B506477AB}" coords="(0,392,360,441)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Songothoner+Naam_1%0D%0ASongothoner+Naam_2%0D%0ASongothoner+Naam_3%0D%0ASongothoner+Naam_4%0D%0ASongothoner+Naam_5%0D%0ASongothoner+Naam_6%0D%0ASongothoner+Naam_7%0D%0ASongothoner+Naam_8%0D%0ASongothoner+Naam_9</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4291611852</selectedColor>
+      <itemHeight>49</itemHeight>
+      <separatorColor>4293190884</separatorColor>
+    </control>
+    <control controlID="8CF9DCB8-AC16-4BDD-AD64-D5CEC7B93A85" controlTypeID="Icon" x="168" y="616" w="24" h="24" zOrder="3">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="22389237-857B-4131-B8D9-C1ABBEC2664A" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="08CFACFF-0B80-408B-9B0C-90BD6FDB101F" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5B14488B-072D-441F-BF23-4DC55EAC6B6C" linkType="ltPageLink" isApplyIncludePage="False" title="SJS+Centers">
+          <area shape="0" alt="" ID="{17A76B9B-9AFF-461E-BA79-410BD92F75A6}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="F6DED3CD-9543-4CDC-A9C9-44FA3DD819CE" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="6">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

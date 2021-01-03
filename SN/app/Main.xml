@@ -1,0 +1,282 @@
+﻿<project version="2.9" name="SN" ID="2044843C-7302-48A7-AEEB-1E1E1A6DC8A7">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4278190080" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="3048BEB8-34E8-43DC-80B2-D919431A48A2" expanded="True" code="UJWVLe9odx" thumbCode="SUWAEN6xmv" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CA1837C3C97A081B67CD5246506A2F60.svg"/>
+        <image key="36D90A2F09CCBE03D4410690F0A96E09.png"/>
+        <image key="327388AF2816215888A5B9FB3AE57FDD.jpg"/>
+        <image key="252A54A7A8F843526A3366BB8704E211.svg"/>
+        <image key="86B824B3C463DAADC37AE643DC31B94D.jpg"/>
+        <image key="0714A005C7CE2B7B0DEA10D138CE2FA3.svg"/>
+      </images>
+      <page name="About Siddiknogori" ID="2D474343-471A-49FF-B697-8DB72692CC8F" expanded="True" code="7lWcJ5uzkc" thumbCode="7lWcJ5uzkc" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="405771E3598222158783D827EDDA94BF.jpg"/>
+          <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        </images>
+      </page>
+      <page name="About Sazzadanoshin" ID="627B8669-605B-43F3-B52F-99B4AAB5905F" expanded="True" code="lEy2gPV4os" thumbCode="lEy2gPV4os" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="7863CEBA7C2A369A374EDFE84216BB2E.jpg"/>
+          <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        </images>
+      </page>
+      <page name="Text Book" ID="F4481F0D-666D-461E-AAF0-3539D5DD3691" expanded="True" code="z5CH3hXYdM" thumbCode="z5CH3hXYdM" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="20E354DD2582087F30D377177FDF1BA7.jpg"/>
+          <image key="8BFAFB0192E2950BFD80BCF3014A0677.jpg"/>
+          <image key="A635E4C8A273D3E5FCA16DE2D159F99B.jpg"/>
+          <image key="9F77607001050AD83E8ECB8AE5771192.jpg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          <image key="E3A0FF1D6F0BEA6959B8356A10D3BEF3.jpg"/>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+          <image key="05C3258AB8B200BB698111A0DF0A4DD0.jpg"/>
+        </images>
+      </page>
+      <page name="Audio Book" ID="1285E494-650A-45EA-99E9-11728722F79C" expanded="True" code="bR9jDZeozA" thumbCode="bR9jDZeozA" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+          <image key="6606AF3642092C907363B02F18EF9123.jpg"/>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        </images>
+        <page name="Bayan-E-Siddiknogori Part-1" ID="4592A82D-7D13-47A6-AB72-8597A0CB3107" expanded="True" code="FleGsJvwnd" thumbCode="FleGsJvwnd" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Bayan-E-Siddiknogori Part-2" ID="B3D2A4FA-0C82-4C47-9DF2-68C1FC3F2C1C" expanded="True" code="AMX3Oaqy2o" thumbCode="AMX3Oaqy2o" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Bayan-E-Siddiknogori Part-3" ID="11280B68-C18D-493C-BF91-B18F22F30323" expanded="True" code="Dodb9PeX9C" thumbCode="Dodb9PeX9C" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Bayan-E-Siddiknogori Part-4" ID="5F2B0725-BF48-4811-AC09-AE01A18F98CD" expanded="True" code="cmRaW6GuYl" thumbCode="cmRaW6GuYl" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Bayan-E-Siddiknogori Part-5" ID="592EE819-1DC5-4F3A-9E2D-11F3F582A852" expanded="True" code="SDspO8yZm8" thumbCode="SDspO8yZm8" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Bayan-E-Siddiknogori Part-6" ID="D4FBD855-9B55-4263-B81B-D6746399A0E9" expanded="False" code="7fUPinucU8" thumbCode="7fUPinucU8" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Bayan-E-Siddiknogori Part-7" ID="00A4313C-0E8C-4CDC-8549-3F7D397B3BC4" expanded="True" code="ZFMLvuXaJU" thumbCode="ZFMLvuXaJU" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Bayan-E-Siddiknogori Part-8" ID="5BB1AF98-C97C-4188-A93E-BEF8676D386F" expanded="True" code="2cWsbgSFOl" thumbCode="2cWsbgSFOl" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="SDS" ID="A9CB0DA5-5DAF-4E43-B5E2-47741C668E68" expanded="True" code="i8vmSGtezx" thumbCode="i8vmSGtezx" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          <image key="A97A2AD288ADDE2D4C3DAC9905749D06.png"/>
+          <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        </images>
+      </page>
+      <page name="SJS" ID="0860BEF9-0C2E-42D5-A1E7-1D9D1FE9B1DB" expanded="True" code="u4UOuUw2rd" thumbCode="u4UOuUw2rd" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+          <image key="6115827978BAEAFEBDC6C21170B4749E.jpg"/>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        </images>
+      </page>
+      <page name="SBS" ID="32E22817-1993-4347-8397-A5AE34D7267B" expanded="True" code="D4GzkyWPwA" thumbCode="D4GzkyWPwA" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="D176F70529D894E56279D035657EBE28.jpg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        </images>
+      </page>
+      <page name="SJS Centers" ID="5B14488B-072D-441F-BF23-4DC55EAC6B6C" expanded="True" code="qCeyGqH1WT" thumbCode="qCeyGqH1WT" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        </images>
+        <page name="Rajshahi Division" ID="7C3CF951-1AD7-4E40-AB0D-A01D5CCE7C57" expanded="True" code="otEPkVFOs1" thumbCode="otEPkVFOs1" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+          <page name="Songotho-1" ID="E1E19E8E-F489-4346-835D-82AEE36A83A8" expanded="True" code="9MeOPrXWn4" thumbCode="9MeOPrXWn4" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+              <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+              <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+              <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+            </images>
+          </page>
+          <page name="Songotho-2" ID="E996BDF1-1185-4137-B1FD-28F467AD5E08" expanded="True" code="JmWI3V4OdG" thumbCode="JmWI3V4OdG" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+              <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+              <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+              <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+            </images>
+          </page>
+          <page name="Songotho-3" ID="9E704DDD-2526-4A5D-AB28-D30C9D193999" expanded="False" code="JdiidsWNyZ" thumbCode="JdiidsWNyZ" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+              <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+              <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+              <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+            </images>
+          </page>
+          <page name="Songotho-4" ID="FA73CF9F-E985-4163-987E-25DDF355AE92" expanded="False" code="H7MmGbPOwG" thumbCode="H7MmGbPOwG" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+              <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+              <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+              <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+            </images>
+          </page>
+          <page name="Songotho-5" ID="9917DF1A-D638-4614-A076-B22FCB105A9C" expanded="True" code="cuGl3Czybk" thumbCode="cuGl3Czybk" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+              <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+              <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+              <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="Rangpur Division" ID="9C714046-F650-4DC2-A0CC-253A4EA733A3" expanded="True" code="7dNWT6iftJ" thumbCode="7dNWT6iftJ" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Dhaka Division" ID="B11821E5-83AC-409C-A48C-5D2B6F4A75E7" expanded="True" code="8rmUZFBNQC" thumbCode="8rmUZFBNQC" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Khulna Division" ID="3137638E-C620-4E0E-9579-373F120B12DF" expanded="True" code="KGUlqsFpFH" thumbCode="KGUlqsFpFH" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Jesohore Division" ID="2BDEAD67-A91E-41D1-AB10-1E8D207D807E" expanded="True" code="k7GT8fe1eS" thumbCode="k7GT8fe1eS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Kumilla Division" ID="ED76491C-8F24-4D55-AF64-BADEF4068B25" expanded="False" code="LAsbUt5NBR" thumbCode="LAsbUt5NBR" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Sylhet Division" ID="D49A16F0-38EB-4A21-8762-0152A817B4F2" expanded="True" code="2bh5W2Gu31" thumbCode="2bh5W2Gu31" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="Chottogram Division" ID="E6608669-25FC-46B6-8FC9-4D3F817C9861" expanded="True" code="6FUj5XDwBS" thumbCode="6FUj5XDwBS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+            <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+          </images>
+        </page>
+        <page name="India" ID="6FCBFF3B-AF26-481F-8F3F-736B5E257D96" expanded="True" code="QHKxee79kZ" thumbCode="QHKxee79kZ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+            <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page" ID="0D233825-8FEB-4996-BB0B-D57C9821B931" expanded="False" code="tRi79frfuS" thumbCode="jhTHq8gfZH" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="1E86E40D-0523-4CDA-82CE-95D477FADED9" expanded="False" code="vFf5Odnx2V" thumbCode="MVV4hQc8oM" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="327388AF2816215888A5B9FB3AE57FDD.jpg"/>
+    <image key="86B824B3C463DAADC37AE643DC31B94D.jpg"/>
+    <image key="6115827978BAEAFEBDC6C21170B4749E.jpg"/>
+    <image key="A635E4C8A273D3E5FCA16DE2D159F99B.jpg"/>
+    <image key="9F77607001050AD83E8ECB8AE5771192.jpg"/>
+    <image key="0714A005C7CE2B7B0DEA10D138CE2FA3.svg"/>
+    <image key="6606AF3642092C907363B02F18EF9123.jpg"/>
+    <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+    <image key="36D90A2F09CCBE03D4410690F0A96E09.png"/>
+    <image key="A97A2AD288ADDE2D4C3DAC9905749D06.png"/>
+    <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+    <image key="CA1837C3C97A081B67CD5246506A2F60.svg"/>
+    <image key="01C687310F9F3CD70AEFE872B950F27F.svg"/>
+    <image key="E3A0FF1D6F0BEA6959B8356A10D3BEF3.jpg"/>
+    <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+    <image key="0DA108F2A798699373516AB4D0C6EEDF.png"/>
+    <image key="405771E3598222158783D827EDDA94BF.jpg"/>
+    <image key="7863CEBA7C2A369A374EDFE84216BB2E.jpg"/>
+    <image key="20E354DD2582087F30D377177FDF1BA7.jpg"/>
+    <image key="8BFAFB0192E2950BFD80BCF3014A0677.jpg"/>
+    <image key="D176F70529D894E56279D035657EBE28.jpg"/>
+    <image key="252A54A7A8F843526A3366BB8704E211.svg"/>
+    <image key="05C3258AB8B200BB698111A0DF0A4DD0.jpg"/>
+  </images>
+</project>

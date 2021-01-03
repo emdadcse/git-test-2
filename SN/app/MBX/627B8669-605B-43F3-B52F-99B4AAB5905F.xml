@@ -1,0 +1,84 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="627B8669-605B-43F3-B52F-99B4AAB5905F" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="8">
+    <control controlID="0E054256-25BC-4471-A287-BD2C70424941" controlTypeID="Shape" x="0" y="203" w="360" h="437" zOrder="0">
+      <color>4293978326</color>
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="46152064-3BC7-45D6-AB3E-6699B9911509" controlTypeID="TextArea" x="27" y="282" w="312" h="326" zOrder="1">
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Lorem+Ipsum+is+simply+dummy+text+of+the+printing+and+typesetting+industry.+Lorem+Ipsum+has+been+the+industry's+standard+dummy+text+ever+since+the+1500s%2C+when+an+unknown+printer+took+a+galley+of+type+and+scrambled+it+to+make+a+type+specimen+book.+It+has+survived+not+only+five+centuries%2C+but+also+the+leap+into+electronic+typesetting%2C+remaining+essentially+unchanged.+It+was+popularised+in+the+1960s+with+the+release+of+Letraset+sheets+containing+Lorem+Ipsum+passages%2C+and+more+recently+with+desktop+publishing+software+like+Aldus+PageMaker+including+versions+of+Lorem+Ipsum.+Lorem+Ipsum+is+simply+dummy+text+of+the+printing+and+typesetting+industry.+Lorem+Ipsum+has+been+the+industry's+standard+dummy+text+ever+since+the+1500s%2C+when+an+unknown+printer+took+a+galley+of+type+and+scrambled+it+to+make+a+type+specimen+book.+It+has+survived+not+only+five+centuries%2C+but+also+the+leap+into+electronic+typesetting%2C+remaining+essentially+unchanged.+It+was+popularised+in+the+1960s+with+the+release+of+Letraset+sheets+containing+Lorem+Ipsum+passages%2C+and+more+recently+with+desktop+publishing+software+like+Aldus+PageMaker+including+versions+of+Lorem+Ipsum.</text>
+      <textSize>13</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EC27FE3D-B3AF-466F-8CC9-0A82A12729E0" controlTypeID="TextArea" x="27" y="227" w="312" h="45" zOrder="2">
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SIAM+MOHAMMOD+TABIR+SHAH%0D%0ASAZZADANOSHIN</text>
+      <textSize>16</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8622561C-EB87-4AEF-BFC9-56C57EFDC822" controlTypeID="Image" x="0" y="0" w="360" h="203" zOrder="3">
+      <URL>7863CEBA7C2A369A374EDFE84216BB2E.jpg</URL>
+      <fitMode>fmFill</fitMode>
+    </control>
+    <control controlID="9DCA2632-6CF6-4909-91A3-BA61EAB51B21" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="A53409D1-DCA8-46DF-8F60-1BEE497F1105" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="9F4B9928-8A89-4798-B6D3-E9E6AEA18096" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="6">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="2D474343-471A-49FF-B697-8DB72692CC8F" linkType="ltPageLink" isApplyIncludePage="False" title="About+Siddiknogori">
+          <area shape="0" alt="" ID="{860DEEF1-BF3D-410C-BA11-32AFD0D1029D}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="2B2503D4-D013-41EF-B9E0-798844908249" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="7">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F4481F0D-666D-461E-AAF0-3539D5DD3691" linkType="ltPageLink" isApplyIncludePage="False" title="Text+Book">
+          <area shape="0" alt="" ID="{6B8CBB88-9A24-4B94-80DF-3C5861603082}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

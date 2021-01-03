@@ -12,3 +12,11 @@ git push -u origin main
 git remote add origin https://github.com/emdadcse/git-test-2.git
 git branch -M main
 git push -u origin main
+
+
+
+As 2.23.0 has been released, with it we can also use git switch to create and switch branches.
+
+If foo exists, try to switch to foo:
+
+git switch foo

@@ -1,0 +1,75 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="0860BEF9-0C2E-42D5-A1E7-1D9D1FE9B1DB" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="7">
+    <control controlID="894F34ED-65BC-423E-8CC1-F10FD6BAEA0D" controlTypeID="Image" x="0" y="0" w="360" h="248" zOrder="0">
+      <URL>6115827978BAEAFEBDC6C21170B4749E.jpg</URL>
+      <fitMode>fmFill</fitMode>
+    </control>
+    <control controlID="46034CEA-418C-49C9-8E77-BA545B37A2FD" controlTypeID="TextArea" x="27" y="267" w="187" h="88" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SIDDIKNOGORI%0D%0AJAKER+SONGOTHON%0D%0ASJS</text>
+      <textColor>4281907245</textColor>
+      <textSize>20</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="24EE6D87-1E09-4FCA-8F27-D84EECA90206" controlTypeID="TextArea" x="27" y="365" w="305" h="228" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>SIZAS+(Siddiknogor+Zaker+Songothon)+was+established+on+February+2%2C+2005.+Ata-e-Iyatimeen%2C+Rahim-e-Masaqeen+O+Khaza-e-Abedeen%2C+Shah+Sufi+Abdul+Khaleq+Chishti+Rahimahullahil+Kareem+is+the+founder+of+SIZAS%2C+and+he+is+the+Director+of+the+organization.+Since+the+inception+of+its+journey+it+has+been+playing+a+crucial+role+in+bringing+out+the+best+from+%E2%80%98Siddiknogori+Dorbar+Shorif%E2%80%99.+It+is+a+voluntary+and+family+organization+of+%E2%80%98Siddiknogori+Dorbar+Shorif%E2%80%99+which+is+considered+as+the+parent+organization+of+it.+It+has+been+contributing+immensely+in+the+field+of+arranging+big+events%2C+infrastructural+development+and+the+overall+development+of+%E2%80%98Siddiknogori+Dorbar+Shorif%E2%80%99.+Therefore%2C+it+as+like+a+child+of+%E2%80%98Siddiknogori+Dorbar+Shorif%E2%80%99+that+looks+after+its+parent.+Besides+the+development+of+%E2%80%98Siddiknogori+Dorbar+Shorif%E2%80%99+it+is+also+contributing+immensely+to+the+development+of+mutual+co-operation+among+the+adherents+of+Muhsin-e-Sabireen%2C+Rehnuma-e-Siddiqeen+O+Khaza-e-Abedeen+Shah+Sufi+Abdul+Khaleq+Chishti+Rahimahullahil+Kareem.</text>
+      <textColor>4278255360</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A6848909-0E7A-4D19-BE82-0A3868B02299" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="3">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="D86E46D3-3FA7-4C65-AA05-D0285B339604" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="804BB911-7E37-400F-97ED-49F93A3C396D" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A9CB0DA5-5DAF-4E43-B5E2-47741C668E68" linkType="ltPageLink" isApplyIncludePage="False" title="SDS">
+          <area shape="0" alt="" ID="{4345CF26-C16A-44A8-A11E-A10F9FB249A3}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="F2441207-A21C-4A8E-BE04-1E9972C86F68" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="6">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="32E22817-1993-4347-8397-A5AE34D7267B" linkType="ltPageLink" isApplyIncludePage="False" title="SBS">
+          <area shape="0" alt="" ID="{76F1CDF1-6341-46C4-8DF9-5D0B480AA48A}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
