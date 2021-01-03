@@ -1,0 +1,74 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F4481F0D-666D-461E-AAF0-3539D5DD3691" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="10">
+    <control controlID="F3E831DB-D329-44CB-BCFA-70B5AB25ECAE" controlTypeID="Image" x="25" y="43" w="143" h="179" zOrder="0">
+      <URL>A635E4C8A273D3E5FCA16DE2D159F99B.jpg</URL>
+    </control>
+    <control controlID="50C26D9B-6BB4-49E8-AA02-CF2B40D2B9A8" controlTypeID="Image" x="25" y="231" w="143" h="179" zOrder="1">
+      <URL>8BFAFB0192E2950BFD80BCF3014A0677.jpg</URL>
+    </control>
+    <control controlID="2A4311B9-BF6F-4BD6-993B-89430AEBBE70" controlTypeID="Image" x="25" y="420" w="143" h="179" zOrder="2">
+      <URL>E3A0FF1D6F0BEA6959B8356A10D3BEF3.jpg</URL>
+    </control>
+    <control controlID="8B0B745F-2CF2-435B-9718-F3C53670D4CE" controlTypeID="Image" x="191" y="43" w="143" h="179" zOrder="3">
+      <URL>05C3258AB8B200BB698111A0DF0A4DD0.jpg</URL>
+    </control>
+    <control controlID="0F5A9692-DA0B-417A-8D3F-5DC5AD34A2EE" controlTypeID="Image" x="191" y="231" w="143" h="179" zOrder="4">
+      <URL>9F77607001050AD83E8ECB8AE5771192.jpg</URL>
+    </control>
+    <control controlID="8E289199-A9E5-4388-99CE-D7365A3E73C7" controlTypeID="Image" x="191" y="420" w="143" h="179" zOrder="5">
+      <URL>20E354DD2582087F30D377177FDF1BA7.jpg</URL>
+    </control>
+    <control controlID="FB5A7E8B-ACFC-48BE-9E72-426906CE1DCC" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="6">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="B07F4A86-1184-471C-9ACD-0DA468272C9C" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="7">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="085CBF5A-2291-4B38-9A69-E7985633DAE6" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="8">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="627B8669-605B-43F3-B52F-99B4AAB5905F" linkType="ltPageLink" isApplyIncludePage="False" title="About+Sazzadanoshin">
+          <area shape="0" alt="" ID="{87841B92-87DE-4BCF-8B81-37E6644D37C7}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="B4165715-3E2F-4FE3-BBA2-E7710D9B938A" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="9">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1285E494-650A-45EA-99E9-11728722F79C" linkType="ltPageLink" isApplyIncludePage="False" title="Audio+Book">
+          <area shape="0" alt="" ID="{E8867289-9135-4C34-9798-84C39A0F9AB6}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

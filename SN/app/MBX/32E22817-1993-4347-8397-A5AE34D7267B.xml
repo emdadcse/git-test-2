@@ -1,0 +1,75 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="32E22817-1993-4347-8397-A5AE34D7267B" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="7">
+    <control controlID="12023730-AB18-4455-914D-4A1C551EA443" controlTypeID="Image" x="0" y="0" w="360" h="248" zOrder="0">
+      <URL>D176F70529D894E56279D035657EBE28.jpg</URL>
+      <fitMode>fmFill</fitMode>
+    </control>
+    <control controlID="A34FC9F7-C9FA-4ED7-9815-AA924082C2B4" controlTypeID="TextArea" x="26" y="267" w="188" h="88" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SIDDIKNOGORI%0D%0ABAUL+SONGOTHON%0D%0ASBS</text>
+      <textColor>4294734860</textColor>
+      <textSize>20</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3FB7FDCC-FA28-4381-AD0B-5186638F8966" controlTypeID="TextArea" x="27" y="365" w="305" h="228" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>SIBAS+(Siddiknogori+Baul+Songothon)+was+founded+on+April+15%2C+2013.+Nigah-e+Aqrabeen+O+Khaza-e-Abedeen+Shah+Sufi+Abdul+Khaleq+Chishti+Rahimahullahil+Kareem+has+penned+more+than+500+%E2%80%98Samaa%E2%80%99+(Spiritual+Songs)+which+are+immensely+popular+with+his+adherents%2C+and+with+the+outsiders+alike.+The+Songs+are+now+brought+between+two+covers%2C+a+book+titled+%E2%80%98Samasomogro+Moromi%E2%80%99+though+few+other+songs+are+not+gathered+yet+but+most+of+the+songs+of+him+are+now+available+in+one+single+book.+The+magical+tunes+of+those+songs+created+the+audience+of+a+class+who+not+only+feel+the+depth+while+hearing+to+these%2C+but+also%2C+they+indulge+themselves+into+the+ocean+of+reality+where+he+sees+through+the+conscious+in+the+forms+of+spiritual+songs.+However%2C+SIBAS+is+a+family+organ+of+%E2%80%98Siddikinogori+Dorbar+Shorif%E2%80%99+that+performs+these+songs+in+different+events+and+festivals%2C+and+thus%2C+upheld+these+glorious+tunes+that+inherently+spreads+the+message+of+peace+and+love+in+this+present+world+of+conflicts%2C+discontents+and+disagreements.+There+are+now+about+fifty+members+in+this+band+of+spiritual+music.</text>
+      <textColor>4294734860</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DAEE152D-AA41-4A2E-98A5-602317CD720B" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="3">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="11CE9A1A-0D24-4DBA-8A78-483C4EC49A4C" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="F1DA27D4-795D-4BB4-8C32-76B8AF6D12C8" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0860BEF9-0C2E-42D5-A1E7-1D9D1FE9B1DB" linkType="ltPageLink" isApplyIncludePage="False" title="SJS">
+          <area shape="0" alt="" ID="{4BDE117A-1DAA-4419-89CC-5328084F6E69}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="98B6796E-4EF5-4B20-A36E-A639848D73EC" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="6">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5B14488B-072D-441F-BF23-4DC55EAC6B6C" linkType="ltPageLink" isApplyIncludePage="False" title="SJS+Centers">
+          <area shape="0" alt="" ID="{A354902B-23B4-473C-948C-2D07E86560A2}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

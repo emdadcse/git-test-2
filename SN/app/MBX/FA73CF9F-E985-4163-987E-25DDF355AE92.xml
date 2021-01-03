@@ -1,0 +1,82 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E1E19E8E-F489-4346-835D-82AEE36A83A8" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="13">
+    <control controlID="43794974-CB22-4F30-9626-C02324A51BE3" controlTypeID="TextArea" x="32" y="66" w="295" h="65" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Siddiknogor+Jaker+Songothon%0D%0ARAJSHAHI+DIVISION%0D%0AAddress+and+Phone+number+will+be+here</text>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="637192DD-091D-489B-9682-DA81D1C94957" controlTypeID="TextArea" x="32" y="498" w="295" h="116" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1.+Member+Name+++++2.+Member+Name%0D%0A3.+Member+Name+++++4.+Member+Name%0D%0A5.+Member+Name+++++6.+Member+Name%0D%0A7.+Member+Name+++++8.+Member+Name</text>
+      <textSize>17</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8D49A41F-9B73-400C-8065-18A6EAEA28D3" controlTypeID="Icon" x="25" y="23" w="24" h="24" zOrder="2">
+      <color>4291611852</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="D50EB2B4-A1B6-456A-A867-98F0EB6B28CF" controlTypeID="TextArea" x="32" y="125" w="296" h="38" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Songotho+Name-1</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="66554A89-D464-4054-A50E-3D96A66209A7" controlTypeID="Image" x="34" y="174" w="147" h="103" zOrder="4"/>
+    <control controlID="C5C00C48-17CB-45A6-AD8E-485CF9CB3BDB" controlTypeID="Image" x="34" y="378" w="147" h="103" zOrder="5"/>
+    <control controlID="A6C36457-4B04-4AE7-9E83-F0210C46B801" controlTypeID="Image" x="34" y="276" w="147" h="103" zOrder="6"/>
+    <control controlID="08302E37-88FB-4A13-81D5-9165924BDDC2" controlTypeID="Image" x="179" y="174" w="147" h="103" zOrder="7"/>
+    <control controlID="6E4369D1-4E86-4F8A-BA8E-715F00F78976" controlTypeID="Image" x="179" y="378" w="147" h="103" zOrder="8"/>
+    <control controlID="0AB74B56-A5BF-46F6-8338-9E5B833B74E7" controlTypeID="Image" x="179" y="276" w="147" h="103" zOrder="9"/>
+    <control controlID="3DC24F87-760C-4F9C-8E13-10D654EE5746" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="10">
+      <color>4291611852</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="F156A6EF-7787-41C6-AB85-DCB535C3FA83" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="11">
+      <color>4291611852</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9E704DDD-2526-4A5D-AB28-D30C9D193999" linkType="ltPageLink" isApplyIncludePage="False" title="Songotho-3">
+          <area shape="0" alt="" ID="{DE4A9788-4047-4B37-A217-3636C497EDC8}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="881BFA08-FB38-429E-8A12-20450BA0CB40" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="12">
+      <color>4291611852</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9917DF1A-D638-4614-A076-B22FCB105A9C" linkType="ltPageLink" isApplyIncludePage="False" title="Songotho-5">
+          <area shape="0" alt="" ID="{AD72E2DE-003D-4FF9-A894-479E1DBCD552}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

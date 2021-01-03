@@ -1,0 +1,164 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="1285E494-650A-45EA-99E9-11728722F79C" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="13">
+    <control controlID="E7CA6AE5-6125-4971-A468-ED30F88434EA" controlTypeID="Image" x="0" y="0" w="360" h="200" zOrder="0">
+      <URL>6606AF3642092C907363B02F18EF9123.jpg</URL>
+    </control>
+    <control controlID="503B4D21-3243-443C-87E1-D69FAE050253" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="1">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="B8A74FD6-5512-4386-8FC5-57E2FCEAB63E" controlTypeID="TextArea" x="34" y="226" w="288" h="36" zOrder="2">
+      <borderColor>13421772</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="4592A82D-7D13-47A6-AB72-8597A0CB3107" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-1">
+          <area shape="0" alt="" ID="{13D8D6C8-237A-41D6-B089-BC5229A3E996}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-1</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2407097E-F6C4-474D-A603-CD69D1632D44" controlTypeID="TextArea" x="34" y="272" w="288" h="36" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="B3D2A4FA-0C82-4C47-9DF2-68C1FC3F2C1C" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-2">
+          <area shape="0" alt="" ID="{A35D8DF6-D620-4011-970B-648A971E92E9}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-2</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="34100F44-A0ED-44BA-A517-D427D0A3BCF7" controlTypeID="TextArea" x="34" y="318" w="288" h="36" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="11280B68-C18D-493C-BF91-B18F22F30323" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-3">
+          <area shape="0" alt="" ID="{4EEBA5B9-A401-4384-B585-223496F9EFA4}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-3</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4385E928-70A7-40CB-B5F2-A1DB15B39169" controlTypeID="TextArea" x="34" y="365" w="288" h="36" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5F2B0725-BF48-4811-AC09-AE01A18F98CD" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-4">
+          <area shape="0" alt="" ID="{3C0BBC12-F14D-4E65-B2BF-E106CD4CD38A}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-4</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="75A121A9-1CEA-4383-8D4F-946F90C80611" controlTypeID="TextArea" x="34" y="412" w="288" h="36" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="592EE819-1DC5-4F3A-9E2D-11F3F582A852" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-5">
+          <area shape="0" alt="" ID="{6D9FCE5B-6219-4AA3-BBC5-9CFFC43BF555}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-5</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3717965E-36CD-4143-AE97-5FBF04C69B48" controlTypeID="TextArea" x="34" y="459" w="288" h="36" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D4FBD855-9B55-4263-B81B-D6746399A0E9" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-6">
+          <area shape="0" alt="" ID="{4CA14402-325D-40E4-9798-7855F0DD09EE}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-6</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="75595373-5A28-4574-BEB1-DB3A5EFFD952" controlTypeID="TextArea" x="34" y="506" w="288" h="36" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="00A4313C-0E8C-4CDC-8549-3F7D397B3BC4" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-7">
+          <area shape="0" alt="" ID="{4EF6FF7D-BFCF-49BB-BE98-217684E47B8F}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-7</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="577D0A83-3CC0-44BC-A2E6-5FA54FCD688E" controlTypeID="TextArea" x="34" y="553" w="288" h="36" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5BB1AF98-C97C-4188-A93E-BEF8676D386F" linkType="ltPageLink" isApplyIncludePage="False" title="Bayan-E-Siddiknogori+Part-8">
+          <area shape="0" alt="" ID="{F15EAEBA-248E-4B76-9C86-9CC5E49BCD54}" coords="(0,0,288,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%23+++Bayan-E-Siddiknogori+Part-8</text>
+      <textColor>4294629303</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D80A9E82-9B14-4DD5-B492-99558454AED2" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="10">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="4FDDD7CC-87ED-4826-AC4B-FF776BD1F61A" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="11">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F4481F0D-666D-461E-AAF0-3539D5DD3691" linkType="ltPageLink" isApplyIncludePage="False" title="Text+Book">
+          <area shape="0" alt="" ID="{04A307D5-E36B-4D3C-9E09-EB6417CE9FA7}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="4A10538B-34CB-4FA5-BDC7-5B2418800A4B" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="12">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A9CB0DA5-5DAF-4E43-B5E2-47741C668E68" linkType="ltPageLink" isApplyIncludePage="False" title="SDS">
+          <area shape="0" alt="" ID="{D3852DD6-BD67-4667-A758-B40D53039D46}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4289307804</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

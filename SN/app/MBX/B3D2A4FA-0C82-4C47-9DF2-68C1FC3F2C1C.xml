@@ -1,0 +1,35 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="B3D2A4FA-0C82-4C47-9DF2-68C1FC3F2C1C" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="4">
+    <control controlID="867C1403-793A-4A03-82AE-C36E46C630F8" controlTypeID="Image" x="0" y="0" w="360" h="506" zOrder="0">
+      <URL>0DA108F2A798699373516AB4D0C6EEDF.png</URL>
+      <fitMode>fmFill</fitMode>
+    </control>
+    <control controlID="5169B296-59C4-4C2A-8F1E-28BB245CAADC" controlTypeID="Media_Control" x="126" y="577" w="108" h="34" zOrder="1">
+      <opacity>0.600000023841858</opacity>
+    </control>
+    <control controlID="7EEBFAB2-154B-43E8-BF76-0044223927F8" controlTypeID="TextArea" x="20" y="529" w="320" h="38" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Bayan-E-Siddiknogori+%3A+Part-1</text>
+      <textColor>4290488220</textColor>
+      <textSize>24</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FC71DBBA-05FC-4103-83E6-5B6182CF1F6F" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="3">
+      <color>4294172104</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

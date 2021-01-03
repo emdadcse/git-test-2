@@ -1,0 +1,46 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="6FCBFF3B-AF26-481F-8F3F-736B5E257D96" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="4">
+    <control controlID="69D865CC-A437-4C8D-95CD-F1DB42A56252" controlTypeID="TextArea" x="32" y="89" w="295" h="62" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Siddiknogor+Jaker+Songothon%0D%0AINDIA</text>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="513877D7-1B54-459A-9633-900CF6EA312F" controlTypeID="Icon" x="25" y="23" w="24" h="24" zOrder="1">
+      <color>4291611852</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="189F1FC9-4130-47D4-AFCB-A4F477FCAE60" controlTypeID="Menu" x="0" y="161" w="360" h="441" zOrder="2">
+      <color>4294172104</color>
+      <borderColor>15000804</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Songothoner+Naam_1%0D%0ASongothoner+Naam_2%0D%0ASongothoner+Naam_3%0D%0ASongothoner+Naam_4%0D%0ASongothoner+Naam_5%0D%0ASongothoner+Naam_6%0D%0ASongothoner+Naam_7%0D%0ASongothoner+Naam_8%0D%0ASongothoner+Naam_9</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4291611852</selectedColor>
+      <itemHeight>49</itemHeight>
+      <separatorColor>4293190884</separatorColor>
+    </control>
+    <control controlID="31C0920B-8026-457F-89E2-CA4BC8CBA8A0" controlTypeID="Icon" x="168" y="616" w="24" h="24" zOrder="3">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,75 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E6608669-25FC-46B6-8FC9-4D3F817C9861" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="6">
+    <control controlID="C9B6BF59-FD90-4981-A2AA-664D5691C629" controlTypeID="TextArea" x="32" y="89" w="295" h="62" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Siddiknogor+Jaker+Songothon%0D%0ACHITTAGONG+DIVISION</text>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="09CAFB3F-E412-40EF-A66E-C43396F7A8E4" controlTypeID="Icon" x="25" y="23" w="24" h="24" zOrder="1">
+      <color>4291611852</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="DB5F3AC5-8FF9-42AE-A883-C77B5761CDB9" controlTypeID="Menu" x="0" y="161" w="360" h="441" zOrder="2">
+      <color>4294172104</color>
+      <borderColor>15000804</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Songothoner+Naam_1%0D%0ASongothoner+Naam_2%0D%0ASongothoner+Naam_3%0D%0ASongothoner+Naam_4%0D%0ASongothoner+Naam_5%0D%0ASongothoner+Naam_6%0D%0ASongothoner+Naam_7%0D%0ASongothoner+Naam_8%0D%0ASongothoner+Naam_9</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4291611852</selectedColor>
+      <itemHeight>49</itemHeight>
+      <separatorColor>4293190884</separatorColor>
+    </control>
+    <control controlID="A24BE129-AC31-4B67-A73F-426A171777FD" controlTypeID="Icon" x="164" y="613" w="24" h="24" zOrder="3">
+      <color>4291611852</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+    <control controlID="1A15C0FA-8FC0-4F69-87F5-06C78D099DC6" controlTypeID="Icon" x="3" y="393" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D49A16F0-38EB-4A21-8762-0152A817B4F2" linkType="ltPageLink" isApplyIncludePage="False" title="Sylhet+Division">
+          <area shape="0" alt="" ID="{51E5E059-DBC2-4AF9-92B9-6C82A44300CC}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+    <control controlID="E873A568-BD49-497A-A464-F0545AE7BF38" controlTypeID="Icon" x="332" y="393" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6FCBFF3B-AF26-481F-8F3F-736B5E257D96" linkType="ltPageLink" isApplyIncludePage="False" title="India">
+          <area shape="0" alt="" ID="{E3B62F34-97A8-44DD-A025-9F9D938D45B5}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

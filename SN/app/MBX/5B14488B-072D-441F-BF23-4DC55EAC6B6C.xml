@@ -1,0 +1,67 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="5B14488B-072D-441F-BF23-4DC55EAC6B6C" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="A4DCA6A4-E98D-41AD-B8CD-F8FB9C88D4D7" controlTypeID="TextArea" x="94" y="124" w="172" h="34" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>SIZAS+CENTERS</text>
+      <textColor>4291611852</textColor>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5387980F-B63E-4EA2-AFE0-AEC6FC481D77" controlTypeID="Menu" x="0" y="206" w="360" h="441" zOrder="1">
+      <color>4294172104</color>
+      <borderColor>15000804</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7C3CF951-1AD7-4E40-AB0D-A01D5CCE7C57" linkType="ltPageLink" isApplyIncludePage="False" title="Rajshahi">
+          <area shape="0" alt="" ID="{99CCAF61-3F2E-45B4-80B9-395FB5BCE581}" coords="(0,0,360,49)"/>
+        </link>
+        <link targetPageID="9C714046-F650-4DC2-A0CC-253A4EA733A3" linkType="ltPageLink" isApplyIncludePage="False" title="Rangpur">
+          <area shape="0" alt="" ID="{56DABB0C-56CA-49CD-A428-910B93203DFA}" coords="(0,49,360,98)"/>
+        </link>
+        <link targetPageID="B11821E5-83AC-409C-A48C-5D2B6F4A75E7" linkType="ltPageLink" isApplyIncludePage="False" title="Dhaka">
+          <area shape="0" alt="" ID="{ABF5573B-390D-4FAF-A256-AFDA260C5400}" coords="(0,98,360,147)"/>
+        </link>
+        <link targetPageID="3137638E-C620-4E0E-9579-373F120B12DF" linkType="ltPageLink" isApplyIncludePage="False" title="Kumilla">
+          <area shape="0" alt="" ID="{5FC9532F-0EEE-4553-809A-67BCFC16FE60}" coords="(0,147,360,196)"/>
+        </link>
+        <link targetPageID="D49A16F0-38EB-4A21-8762-0152A817B4F2" linkType="ltPageLink" isApplyIncludePage="False" title="Sylhet">
+          <area shape="0" alt="" ID="{6B863479-B6CD-454F-87DD-57E86C7ABAF2}" coords="(0,196,360,245)"/>
+        </link>
+        <link targetPageID="E6608669-25FC-46B6-8FC9-4D3F817C9861" linkType="ltPageLink" isApplyIncludePage="False" title="Chottogram">
+          <area shape="0" alt="" ID="{EAF5F88C-2FCD-4240-A96A-1A8C19EC3A78}" coords="(0,245,360,294)"/>
+        </link>
+        <link targetPageID="2BDEAD67-A91E-41D1-AB10-1E8D207D807E" linkType="ltPageLink" isApplyIncludePage="False" title="Jesohore">
+          <area shape="0" alt="" ID="{9CDD13BD-0D51-44BA-AAC3-3EC00B1F6A59}" coords="(0,294,360,343)"/>
+        </link>
+        <link targetPageID="3137638E-C620-4E0E-9579-373F120B12DF" linkType="ltPageLink" isApplyIncludePage="False" title="Khulna">
+          <area shape="0" alt="" ID="{2225ECCC-9C3B-4449-B44D-F87C2848B884}" coords="(0,343,360,392)"/>
+        </link>
+        <link targetPageID="6FCBFF3B-AF26-481F-8F3F-736B5E257D96" linkType="ltPageLink" isApplyIncludePage="False" title="India">
+          <area shape="0" alt="" ID="{D2285441-8ECC-4EAD-A873-E6E44900142E}" coords="(0,392,360,441)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Rajshahi%0D%0ARangpur%0D%0ADhaka%0D%0AKumilla%0D%0ASylhet%0D%0AChottogram%0D%0AJesohore%0D%0AKhulna%0D%0AIndia</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4291611852</selectedColor>
+      <itemHeight>49</itemHeight>
+      <separatorColor>4293190884</separatorColor>
+    </control>
+    <control controlID="7CCAB62E-B2FF-4CC2-BB96-D3FE99D2A277" controlTypeID="Icon" x="25" y="15" w="24" h="24" zOrder="2">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281545523</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
